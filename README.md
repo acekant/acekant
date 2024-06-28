@@ -1,16 +1,58 @@
-## Hi there 👋
+# Dheerendra Kumar
 
-<!--
-**acekant/acekant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋
 
-Here are some ideas to get you started:
+I'm **Dheerendra Kumar**, a passionate learner from India, currently diving into the world of Full Stack Web Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+
+- 🌱 I’m currently learning Full Stack Web Development.
+- 📫 How to reach me: dkuarya@gmail.com
+
+---
+
+## Skills
+
+### Frontend
+- HTML
+- CSS
+- JavaScript
+
+### Backend
+- Node.js
+
+### Database
+- MySQL
+
+### Tools & Technologies
+- Git & GitHub
+- Visual Studio Code
+
+---
+
+## Projects
+
+### Project 1: [Project Name]
+Description: no projects yet
+Technologies used: 
+
+
+---
+
+## Contact Me
+
+- **Email**: dkuarya@gmail.com
+- **LinkedIn**: www.linkedin.com/in/acekant/
+
+
+---
+
+Feel free to reach out if you have any questions or would like to collaborate on a project!
+
+---
+
+![Dheerendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
