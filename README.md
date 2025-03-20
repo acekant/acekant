@@ -1,58 +1,25 @@
-# Dheerendra Kumar
+# Hi there! 👋 I'm Dheerendra Kumar
 
-### Hi there 👋
+I'm a passionate web developer on a journey to master the **MERN stack**. Currently, I'm learning and improving my front-end skills, building projects, and sharing my progress. I am pursuing it as self taught progammer.
 
-I'm **Dheerendra Kumar**, a passionate learner from India, currently diving into the world of Full Stack Web Development.
+## 🚀 About Me
+- 🌍 Exploring web technologies and open source
+- 🏗️ Building projects to strengthen my skills
+- 📢 Sharing my learning journey on LinkedIn
 
----
+## 🛠️ Skills (So Far)
+- **Front-End:** HTML, CSS, Tailwind CSS (in progress)
+- **Version Control:** Git, GitHub (relearning soon)
 
-## About Me
+## 📌 Next Steps
+- Learn JavaScript deeply (in progress)
+- Master React.js and front-end development
+- Explore backend with Node.js, Express.js, and MongoDB
+- Contribute to open-source projects
 
-- 🌱 I’m currently learning Full Stack Web Development.
-- 📫 How to reach me: dkuarya@gmail.com
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/acekant/)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/acekant/)  
 
----
-
-## Skills
-
-### Frontend
-- HTML
-- CSS
-- JavaScript
-
-### Backend
-- Node.js
-
-### Database
-- MySQL
-
-### Tools & Technologies
-- Git & GitHub
-- Visual Studio Code
-
----
-
-## Projects
-
-### Project 1: [Project Name]
-Description: no projects yet
-Technologies used: 
-
-
----
-
-## Contact Me
-
-- **Email**: dkuarya@gmail.com
-- **LinkedIn**: www.linkedin.com/in/acekant/
-
-
----
-
-Feel free to reach out if you have any questions or would like to collaborate on a project!
-
----
-
-![Dheerendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+Let's connect and grow together! 🚀
+Generated with help of chatgpt
