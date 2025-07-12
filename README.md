@@ -3,18 +3,17 @@
 I'm a passionate web developer on a journey to master the **MERN stack**. Currently, I'm learning and improving my front-end skills, building projects, and sharing my progress. I am pursuing it as self taught progammer.
 
 ## 🚀 About Me
-- 🌍 Exploring web technologies and open source
+- 🌍 Exploring web technologies (Web 3) and open source
 - 🏗️ Building projects to strengthen my skills
-- 📢 Sharing my learning journey on LinkedIn
+- 📢 Sharing my learning journey on LinkedIn and X
 
 ## 🛠️ Skills (So Far)
-- **Front-End:** HTML, CSS, Tailwind CSS (in progress)
-- **Version Control:** Git, GitHub (relearning soon)
+- **Web Dev:** HTML, CSS, Tailwind CSS, MERN, Git and Github
+- **Web 3:** (relearning soon)
 
 ## 📌 Next Steps
-- Learn JavaScript deeply (in progress)
-- Master React.js and front-end development
-- Explore backend with Node.js, Express.js, and MongoDB
+- Want to Learn Web 3
+- Participate in Hackathons
 - Contribute to open-source projects
 
 ## 📫 Connect with Me
