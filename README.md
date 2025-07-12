@@ -19,7 +19,7 @@ I'm a passionate web developer on a journey to master the **MERN stack**. Curren
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/acekant/)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/acekant/) 
-[!X](https://www.x.com/acekant_)
+[![X](https://x.com/acekant_/) 
 
 Let's connect and grow together! 🚀
 Generated with help of chatgpt
