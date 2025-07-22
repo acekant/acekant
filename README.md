@@ -1,18 +1,18 @@
 # Hi there! 👋 I'm Dheerendra Kumar
 
-I'm a passionate web developer on a journey to master the **MERN stack**. Currently, I'm learning and improving my front-end skills, building projects, and sharing my progress. I am pursuing it as self taught progammer.
+I'm a passionate web developer on a journey to master the **Web3 and AI**. Currently, I'm learning and improving my skills, building projects, and sharing my progress. I am pursuing it as self taught progammer or (hobbist).
 
 ## 🚀 About Me
-- 🌍 Exploring web technologies (Web 3) and open source
+- 🌍 Exploring web technologies (Web3, AI)  and open source
 - 🏗️ Building projects to strengthen my skills
 - 📢 Sharing my learning journey on LinkedIn and X
 
 ## 🛠️ Skills (So Far)
 - **Web Dev:** HTML, CSS, Tailwind CSS, MERN, Git and Github
-- **Web 3:** (relearning soon)
+- **Web3 and AI:** (relearning soon)
 
 ## 📌 Next Steps
-- Want to Learn Web 3
+- Want to Learn Web3 and AI
 - Participate in Hackathons
 - Contribute to open-source projects
 
