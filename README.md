@@ -1,18 +1,18 @@
 # Hi there! 👋 I'm Dheerendra Kumar
 
-I'm a passionate web developer on a journey to master the **Web3 and AI**. Currently, I'm learning and improving my skills, building projects, and sharing my progress. I am pursuing it as self taught progammer or (hobbist).
+I'm a passionate web developer on a journey to master the **AI**. Currently, I'm learning and improving my skills, building projects, and sharing my progress. I am pursuing it as self taught progammer or (hobbist).
 
 ## 🚀 About Me
-- 🌍 Exploring web technologies (Web3, AI)  and open source
+- 🌍 Exploring web technologies (Data Analytics and AI)  and open source
 - 🏗️ Building projects to strengthen my skills
 - 📢 Sharing my learning journey on LinkedIn and X
 
 ## 🛠️ Skills (So Far)
 - **Web Dev:** HTML, CSS, Tailwind CSS, MERN, Git and Github
-- **Web3 and AI:** (relearning soon)
+- **AI:** (relearning soon)
 
 ## 📌 Next Steps
-- Want to Learn Web3 and AI
+- Want to Learn AI
 - Participate in Hackathons
 - Contribute to open-source projects
 
